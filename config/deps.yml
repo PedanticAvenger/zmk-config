@@ -11,6 +11,3 @@ manifest:
       remote: rianadon
       revision: main
       import: config/deps.yml
-    - name: Cosmos-Lemon-Wireless
-      remote: pedantic
-      revision: main

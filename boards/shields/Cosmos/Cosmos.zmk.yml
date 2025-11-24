@@ -1,0 +1,13 @@
+file_format: "1"
+id: Cosmos
+name: Cosmos
+type: shield
+url: https://github.com/rianadon/Cosmos-Keyboards
+features:
+  - keys
+  - underglow
+  - encoder
+  - studio
+siblings:
+  - Cosmos_left
+  - Cosmos_right
